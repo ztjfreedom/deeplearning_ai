@@ -1,0 +1,16 @@
+.DS_Store
+.idea
+.ipynb_checkpoints
+
+__pycache__
+
+datasets
+model_data
+nb_images
+weights
+pretrained-model
+data
+XY_dev
+XY_train
+
+*.h5
